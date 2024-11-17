@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tutorial on Han&#39;s blog</title>
+    <link>http://localhost:1313/categories/tutorial/</link>
+    <description>Recent content in Tutorial on Han&#39;s blog</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 16 Nov 2024 11:00:09 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Sat, 16 Nov 2024 11:00:09 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的第一篇博客&#34;&gt;欢迎来到我的第一篇博客&lt;/h1&gt;
+&lt;p&gt;这是我的第一篇 Hugo 博客文章！在这篇文章中，我将展示 Markdown 的基本用法以及如何使用它创建引人入胜的内容。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;markdown-的基本用法&#34;&gt;Markdown 的基本用法&lt;/h2&gt;
+&lt;h3 id=&#34;1-标题&#34;&gt;1. &lt;strong&gt;标题&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Markdown 支持从 &lt;code&gt;#&lt;/code&gt; 到 &lt;code&gt;######&lt;/code&gt; 六级标题。示例：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;# 一级标题
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;## 二级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;### 三级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;#### 四级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;##### 五级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;###### 六级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
